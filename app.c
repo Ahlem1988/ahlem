@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
-inti main (){
+int main (){
 	while (1) {
-		ptintf("Bonjour DevOps2 \n");
+		printf("Bonjour DevOps2 \n");
 		sleep(3);
 	}
 	return 0;
